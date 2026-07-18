@@ -1,0 +1,1 @@
+APP_NAME = "Botir Business AI Assistant"
