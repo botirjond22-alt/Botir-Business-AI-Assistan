@@ -10,4 +10,5 @@ while True:
         print("Xayr!")
         break
 
-    print("Javob tayyorlanmoqda:", savol)
+    print("Siz so'radingiz:", savol)
+    print("AI javobi tayyorlanmoqda...")
