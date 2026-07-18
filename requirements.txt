@@ -1,1 +1,1 @@
-openai
+python-telegram-bot
