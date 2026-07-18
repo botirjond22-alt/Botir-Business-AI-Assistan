@@ -1,4 +1,13 @@
-Lfrom config import APP_NAME
+from config import APP_NAME
 
 print(APP_NAME)
-print("Salom! Men sizning biznes AI yordamchingizman.")
+print("Salom! Men biznes AI yordamchingizman.")
+
+while True:
+    savol = input("Savolingiz: ")
+
+    if savol.lower() == "chiqish":
+        print("Xayr!")
+        break
+
+    print("Javob tayyorlanmoqda:", savol)
