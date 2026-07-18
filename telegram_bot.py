@@ -1,1 +1,1 @@
-print("Telegram bot tayyor")
+print("Botir Business AI Telegram bot ishga tushdi!")
